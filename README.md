@@ -49,7 +49,7 @@ your-repo/
 └── screenshots/            
     ├── desktop.png
     ├── tablet.png
-    └── mobile.png
+    └── phone.png
 ```
 
 ## 🚀 How to Run
