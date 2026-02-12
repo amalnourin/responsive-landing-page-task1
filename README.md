@@ -11,7 +11,7 @@ A modern, fully responsive landing page built with HTML5 and CSS3, featuring a c
 ![Tablet](screenshots/tablet.png)
 
 ### Mobile View
-![Mobile](screenshots/mobile.png)
+![Mobile](screenshots/phone.png)
 
 ## 📋 Project Overview
 
